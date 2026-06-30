@@ -24,7 +24,8 @@ sites:
 status-website:
   cname: status.zero-host.org
   favicon: https://img.zero-host.org/assets/picto.png
-  logoUrl: https://img.zero-host.org/assets/picto.png
+  logoUrl: https://img.zero-host.org/assets/picto.svg
+  faviconSvg: https://img.zero-host.org/assets/picto.svg
   name: ZeroHost
   introTitle: "**ZeroHost** status"
   introMessage: View the status of your ZeroHost services in real time, switching between the web and the nodes
