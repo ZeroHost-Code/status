@@ -22,11 +22,8 @@ sites:
       - 401
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.zero-host.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://img.zero-host.org/assets/picto.png
   name: ZeroHost
   introTitle: "**ZeroHost** status"
   introMessage: View the status of your ZeroHost services in real time, switching between the web and the nodes
@@ -37,4 +34,3 @@ status-website:
       href: https://github.com/$OWNER/
     - title: Dashboard
       href: https://dash.zero-host.org
-
