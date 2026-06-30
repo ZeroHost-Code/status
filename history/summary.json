@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 491,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "time": 488,
+    "timeDay": 488,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 583,
-    "timeWeek": 583,
-    "timeMonth": 583,
-    "timeYear": 583,
+    "time": 527,
+    "timeDay": 527,
+    "timeWeek": 527,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 415,
+    "timeDay": 415,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   },
   {
@@ -76,19 +76,19 @@
     "url": "https://node2.zero-host.org:8080",
     "icon": "https://icons.duckduckgo.com/ip3/node2.zero-host.org.ico",
     "slug": "node-next",
-    "status": "down",
-    "uptime": "36.87%",
-    "uptimeDay": "36.87%",
-    "uptimeWeek": "36.87%",
-    "uptimeMonth": "36.87%",
-    "uptimeYear": "36.87%",
+    "status": "up",
+    "uptime": "3.74%",
+    "uptimeDay": "3.74%",
+    "uptimeWeek": "3.74%",
+    "uptimeMonth": "3.74%",
+    "uptimeYear": "3.74%",
     "time": 451,
     "timeDay": 451,
     "timeWeek": 451,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2026-06-30": 0
+      "2026-06-30": 8
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://node1.zero-host.org:8080",
     "icon": "https://icons.duckduckgo.com/ip3/node1.zero-host.org.ico",
     "slug": "node-nebula",
-    "status": "down",
-    "uptime": "59.14%",
-    "uptimeDay": "59.14%",
-    "uptimeWeek": "59.14%",
-    "uptimeMonth": "59.14%",
-    "uptimeYear": "59.14%",
-    "time": 439,
-    "timeDay": 439,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "status": "up",
+    "uptime": "3.56%",
+    "uptimeDay": "3.56%",
+    "uptimeWeek": "3.56%",
+    "uptimeMonth": "3.56%",
+    "uptimeYear": "3.56%",
+    "time": 364,
+    "timeDay": 364,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2026-06-30": 0
+      "2026-06-30": 8
     }
   }
 ]
