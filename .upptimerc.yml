@@ -12,8 +12,14 @@ sites:
     url: https://hub.zero-host.org
   - name: Node Next
     url: "https://node2.zero-host.org:8080"
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Node Nebula
     url: "https://node1.zero-host.org:8080"
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
