@@ -24,7 +24,7 @@ sites:
 status-website:
   cname: status.zero-host.org
   favicon: https://img.zero-host.org/assets/picto.png
-  logoUrl: https://img.zero-host.org/assets/picto.svg
+  logoUrl: https://img.zero-host.org/assets/picto.png
   faviconSvg: https://img.zero-host.org/assets/picto.svg
   name: ZeroHost
   introTitle: "**ZeroHost** status"
